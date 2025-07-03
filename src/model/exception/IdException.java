@@ -1,4 +1,4 @@
-package model.exceptions;
+package model.exception;
 
 public class IdException extends RuntimeException {
 
